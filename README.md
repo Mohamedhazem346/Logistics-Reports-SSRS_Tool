@@ -8,12 +8,7 @@
 
 An enterprise-grade, end-to-end data platform built for a multi-state logistics corporation. This system seamlessly integrates robust **Data Warehousing**, pixel-perfect enterprise **SSRS Reporting**, interactive **Power BI Dashboards**, and an **Agentic AI Workflow** to transform fragmented operational data into actionable strategic insights.
 
----
-
-## 🎯 Project Overview
-
-This project addresses the modern data challenges of a logistics enterprise managing a fleet of **121 trucks**, **151 drivers**, and over **85,000 operational trips**. The solution converts raw operational data into high-performance analytical assets using a **Galaxy Schema Data Warehouse**, paired with enterprise-level **SSRS reports** for operational compliance, and an automated **n8n AI Agent** that dynamically translates natural language queries into executable SQL code, sending automated insights via Telegram and Email.
----
+--- 
 
 ## 📊 SSRS Enterprise Reports Details
 
